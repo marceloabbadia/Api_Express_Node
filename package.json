@@ -8,7 +8,7 @@
     "start": "nodemon ./index.js localhost 3000"
   },
   "keywords": [],
-  "author": "",
+  "author": "Marcelo Abbadia",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
