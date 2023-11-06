@@ -26,10 +26,10 @@ npm install
 
 Crie um arquivo .env na pasta raiz do projeto.
 
-4. Defina a URI de conexão com o MongoDB no arquivo .env. Por exemplo:
+4. Defina a URI de conexão com o MongoDB no arquivo .env.
 
-URI=mongodb+srv://seu-nome-de-usuario:sua-senha@cluster.mongodb.net/seu-banco-de-dados
-Observação: Certifique-se de manter o arquivo .env privado e não compartilhá-lo em repositórios públicos, pois ele pode conter informações sensíveis, como credenciais do banco de dados.
+   Por exemplo: URI=mongodb+srv://seu-nome-de-usuario:sua-senha@cluster.mongodb.net/seu-banco-de-dados
+   Observação: Certifique-se de manter o arquivo .env privado e não compartilhá-lo em repositórios públicos, pois ele pode conter informações sensíveis, como credenciais do banco de dados.
 
 5. Inicie a aplicação:
 
